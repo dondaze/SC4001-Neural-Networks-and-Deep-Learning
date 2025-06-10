@@ -6,8 +6,8 @@
 ## $~~~~~~$ Individual Assignment
 <br>  
 
-# 2. SC4001 Project (Jupyter)
-## $~~~~~~$ Group Project
+# 2. SC4001 Group Project (Jupyter)
+## $~~~~~~$ Flowers Recognition
 <br>
 
 # 3. SC4001 PYP Solution
