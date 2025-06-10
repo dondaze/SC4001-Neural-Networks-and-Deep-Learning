@@ -1,5 +1,5 @@
-# 2024/2025 Sem 2
 # SC4001 Neural Networks and Deep Learning
+# 2024/2025 Sem 2
 <br>
 
 # 1. SC4001 Programming Assignment (Jupyter)
